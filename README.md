@@ -21,7 +21,7 @@ Para cada tienda, se analizaron los siguientes indicadores:
 - **Calificaciones Promedio de los Clientes**
 - **Costo de Envío Promedio**
 
-### 🔧 Tecnologías Utilizadas
+###  Tecnologías Utilizadas
 
 - Python 3
 - Matplotlib
